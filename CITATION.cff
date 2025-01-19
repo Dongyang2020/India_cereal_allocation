@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Wei
+  given-names: Dongyang
+  orcid: https://orcid.org/0000-0003-0384-4340
+
+title: "India_cereal_allocation"
+version: 1.0.0
+date-released: 2025-01-18
+url: "https://github.com/Dongyang2020/India_cereal_allocation"
